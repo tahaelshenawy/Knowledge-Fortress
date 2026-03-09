@@ -37,9 +37,6 @@ As a professional with a Juris Doctor (JD) background and a Software Engineer, I
 
     Knowledge Preservation: Building a digital vault that lasts, inspired by the Arctic Code Vault philosophy.
 
-📸 System in Action
-
-    <div align="center">
   <h3>📸 System in Action</h3>
   <img src="https://raw.githubusercontent.com/tahaelshenawy/Knowledge-Fortress/refs/heads/main/IMG_20260309_211743.jpg" width="600" alt="Fortress of Knowledge Localhost Screenshot">
   <p><i>Live instance running on localhost, demonstrating local model inference and archive browsing.</i></p>
